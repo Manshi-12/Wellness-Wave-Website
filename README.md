@@ -1,22 +1,20 @@
-==============================================================================
-                              WELLNESS WAVE - FITNESS & NUTRITION
-==============================================================================
+## WELLNESS WAVE - FITNESS & NUTRITION
  
 Welcome to the Wellness Wave project! A web-based platform to guide users on
 their journey to better fitness and nutrition through personalized courses,
 blog content, and more.
 
-==============================================================================
-FEATURES:
-==============================================================================
+
+## FEATURES:
+
 - Hero Section with banner for an engaging first impression.
 - Fully responsive design for mobile and desktop.
 - Courses such as Women’s Course, Fitness, and Nutrition tips.
 - Modern UI with Ionicons and Google Fonts for smooth user experience.
 
-==============================================================================
-TECHNOLOGIES USED:
-==============================================================================
+
+## TECHNOLOGIES USED:
+
 - Frontend:
   - HTML5
   - CSS3 (Custom styles)
@@ -24,9 +22,9 @@ TECHNOLOGIES USED:
   - Fonts: Montserrat & Playfair Display (Google Fonts)
   - Icons: Ionicons
 
-==============================================================================
-INSTALLATION:
-==============================================================================
+
+## INSTALLATION:
+
 1. Clone the repository:
    $ git clone https://github.com/Manshi-12/Wellness-Wave-Website
    
@@ -36,9 +34,9 @@ INSTALLATION:
 3. Open the `index.html` in your browser:
    $ open index.html
 
-==============================================================================
-USAGE:
-==============================================================================
+
+## USAGE:
+
 - Home: Explore courses and wellness tips.
 - About Us: Learn more about our mission.
 - Courses: Browse wellness programs.
